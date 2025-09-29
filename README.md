@@ -4,7 +4,7 @@ A modern, responsive website for Dribbl creative platform built with React, Type
 
 ## 🚀 Live Demo
 
-**[View Live Website →](https://www.teamdribbl.ca/)**
+**[View Live Website Here](https://www.teamdribbl.ca/)**
 
 ## 📸 Screenshots
 
