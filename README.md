@@ -7,7 +7,7 @@ A modern, responsive website for Dribbl creative platform built with React, Type
 **[View Live Website Here](https://www.teamdribbl.ca/)**
 
 ## 📸 Screenshots
-
+![Dribbl Website Preview](/src/dribbl_ss2.png)
 ![Dribbl Website Preview](/src/dribbl_ss1.png)
 
 ## 🛠️ Tech Stack
@@ -122,5 +122,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 **Built with ❤️ by Rishab**
+
 
 
