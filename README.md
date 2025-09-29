@@ -8,7 +8,7 @@ A modern, responsive website for Dribbl creative platform built with React, Type
 
 ## 📸 Screenshots
 
-![Dribbl Website Preview]([./public/Screenshot%202025-06-17%20at%2011.36.57%20AM.png](https://github.com/eebwab/Dribbl-landing-page/blob/main/src/dribbl_ss1.png?raw=true))
+![Dribbl Website Preview](/src/dribbl_ss1.png)
 
 ## 🛠️ Tech Stack
 
@@ -122,4 +122,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 **Built with ❤️ by Rishab**
+
 
